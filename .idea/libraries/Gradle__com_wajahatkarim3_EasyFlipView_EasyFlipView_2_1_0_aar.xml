@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b54a0814fb2fddf8b942b5dafe4ffd8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b54a0814fb2fddf8b942b5dafe4ffd8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wajahatkarim3.EasyFlipView/EasyFlipView/2.1.0/e752e718df985a3429185b0402405b9dd958c104/EasyFlipView-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
